@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 import os
 
-st.set_page_config(page_title="AI Enquiry Classifier", page_icon="📨")
+st.set_page_config(page_title="AI Enquiry Classifier")
 
 @st.cache_resource
 def load_model(model_path: str):
@@ -11,10 +11,10 @@ def load_model(model_path: str):
         st.stop()
     return joblib.load(model_path)
 
-st.title("📨 AI Enquiry Classification: Support Ticket Routing")
+st.title("AI Enquiry Classification: Support Ticket Routing")
 st.markdown("Type a customer message and I'll predict the category.")
 
-model_path = os.environ.get("MODEL_PATH", "models/ticket_router.joblib")
+model_path = os.environ.get("MODEL_PATH", "ticket_router.joblib")
 model = load_model(model_path)
 
 user_text = st.text_area("Customer message", height=160, placeholder="e.g., I was charged twice this month, please refund the extra charge.")

@@ -47,8 +47,8 @@ def train(data_csv: str, model_out: str):
 
 if __name__ == "__main__":
     # Default values
-    data_path = r"data\sample_tickets.csv"
-    out_path = r"models\ticket_router.joblib"
+    data_path = r"sample_tickets.csv"
+    out_path = r"ticket_router.joblib"
 
     # If arguments are passed: python train.py "data.csv" "model.joblib"
     if len(sys.argv) > 1:
