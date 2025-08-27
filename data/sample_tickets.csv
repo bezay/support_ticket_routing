@@ -1,0 +1,51 @@
+text,label
+I was charged twice this month, please refund the extra charge.,Billing
+Why is there a new fee on my invoice?,Billing
+My payment failed but money was deducted from my bank.,Billing
+Can I change my billing cycle from monthly to yearly?,Billing
+The promo code didn't apply to my bill.,Billing
+I need a copy of last year's invoices for tax.,Billing
+Update my credit card details for future payments.,Billing
+"Late fee was added by mistake, can you remove it?",Billing
+I cancelled but still got billed this month.,Billing
+How do I download my latest receipt?,Billing
+The app keeps crashing when I try to upload a file.,Technical Issue
+I'm getting a 500 server error on the dashboard.,Technical Issue
+Push notifications stopped working on my phone.,Technical Issue
+The website is loading very slowly today.,Technical Issue
+My microphone isn't detected during video calls.,Technical Issue
+The integration with Slack fails to connect.,Technical Issue
+Export to CSV button does nothing.,Technical Issue
+I can't update the app; it says installation failed.,Technical Issue
+There is a bug with dark mode not saving my preference.,Technical Issue
+Graphs are blank after the latest update.,Technical Issue
+I forgot my password and can't sign in.,Account Access
+My account is locked after too many attempts.,Account Access
+I never received the verification email.,Account Access
+How can I enable two-factor authentication?,Account Access
+Change the email address associated with my account.,Account Access
+I want to delete my account permanently.,Account Access
+Please help me recover my username.,Account Access
+My SSO login is failing with an 'unauthorized' message.,Account Access
+The reset password link has expired.,Account Access
+I keep getting logged out repeatedly.,Account Access
+Do you offer discounts for students?,General Inquiry
+What are your business hours on weekends?,General Inquiry
+Is there an API I can use to integrate with my system?,General Inquiry
+Where can I find your security whitepaper?,General Inquiry
+Do you have a public roadmap?,General Inquiry
+How can I become a reseller partner?,General Inquiry
+What is the difference between the Basic and Pro plans?,General Inquiry
+Do you support data residency in the EU?,General Inquiry
+Can I trial the premium features before buying?,General Inquiry
+Where can I update my notification preferences?,General Inquiry
+Double charged on my last statement.,Billing
+App crashes on startup after update.,Technical Issue
+"SSO won't let me in, says invalid token.",Account Access
+Do you offer nonprofit pricing?,General Inquiry
+How do I change from monthly to annual billing?,Billing
+"After updating, charts no longer render.",Technical Issue
+I can't find my invoices history.,Billing
+Please enable 2FA on my account.,Account Access
+I'd like to close my account and remove my data.,Account Access
+Any limits on API usage?,General Inquiry
